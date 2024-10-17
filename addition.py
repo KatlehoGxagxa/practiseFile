@@ -1,21 +1,4 @@
 # Author: Katleho Gxagxa
-# This program illustrates the addition of integer types.
-a = 5
-b = 10
-print(a + b)
-
-result = a + b
-print(f"{a} added to {b} gives us {result}.")
-
-# I impliment the multiplication function using addition. It returns the result of multiplying num1 by num2.
-def multiplication(num1, num2):
-    answer = 0
-    for i in range(num2):
-        answer = num1 + answer
-    return answer
-
-print(multiplication(10, 3))
-
 
 # 1. Basic addition.
 # You can add two or more integers using the '+' operator.
@@ -72,3 +55,5 @@ print(a)
 a = 5
 b = "hello"
 print(a + b) 
+
+

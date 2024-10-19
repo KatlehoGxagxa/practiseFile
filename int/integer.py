@@ -1,5 +1,7 @@
 # This program is about the integer object/type in python.
 # Integers have unlimited precision.
+# docs.python.org
+# with some help from chatGPT.
 
 '''
 In Python, "unlimited precision" for integers means that the int type can handle very large numbers without being constrained by a fixed number of bits. 
